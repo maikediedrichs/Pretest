@@ -1,0 +1,11 @@
+id,name,sex,type,work
+hitler,Adolf Hitler,1,1,1
+hindenburg,Paul von Hindenburg,1,1,1
+goering,Hermann Goering,1,1,1
+ludendorff,Erich Ludendorff,1,1,1
+nsdap,NSDAP,,2,
+ss,SS,,2,
+sa,SA,,2,
+himmler,Heinrich Himmler,1,1,1
+papen,Franz von Papen,1,1,1
+heß,Rudolf Heß,1,1,1
