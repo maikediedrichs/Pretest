@@ -49,12 +49,13 @@ dichotome Ausprägung:<br>
 1 = male<br>
 2 = female<br>
 
-work <br>
-definiert, aus welcher Branche die Knoten kommen <br>
+backgroung <br>
+definiert das primäre Arbeitsfeld der Knoten.<br>
 1 = Politik <br>
 2 = Wirtschaft <br>
+3 = Militär <br>
 
 type	<br>
-definiert, um welche Art von Knoten es sich handelt<br>
+definiert, um welche Art von Knoten es sich handelt.<br>
 1 = Person <br>
 2 = Organisation
